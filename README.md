@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on this project in java it is a bank so for is been difficult but i'm doing some research to improve some errors
 - 🌱 I’m currently learning Generative AI Fundamentals and Spanish and Italian
-- ⚡ Fun fact: I love anime, manga, horror movies and romcom, lately a been reading Frankenstein and those two mangas Kingdom and SpyxFamily if a could recommend a manga the is my favorite is Dorohedoro
+- ⚡ Fun fact: I love anime, manga, horror movies and romcom, lately a been reading Frankenstein and those two mangas Kingdom and SpyxFamily if a could recommend a manga that is my favorite is Dorohedoro
 
 ## I'm learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
