@@ -3,7 +3,6 @@
 ###
 
 - 🔭 I’m currently working on this project in java it is a bank so for is been difficult but i'm doing some research to improve some errors
-- 🌱 I’m currently learning Generative AI Fundamentals and Spanish and Italian
 - ⚡ Fun fact: I love anime, manga, horror movies and romcom, lately a been reading Frankenstein and those two mangas Kingdom and SpyxFamily if a could recommend a manga that is my favorite is Dorohedoro
 
 ## I'm learning about
